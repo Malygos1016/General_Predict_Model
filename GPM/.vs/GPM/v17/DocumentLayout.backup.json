@@ -31,8 +31,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-19T04:50:19.002Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -42,7 +41,7 @@
               "RelativeDocumentMoniker": "GPM.cpp",
               "ToolTip": "D:\\Work-Liu Jianning\\Projects\\GeneralPredictModel\\GPM\\GPM.cpp",
               "RelativeToolTip": "GPM.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-19T05:07:28.53Z",
               "IsPinned": true,
